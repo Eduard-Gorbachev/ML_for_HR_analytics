@@ -1,4 +1,4 @@
-# Machine-learning-project-for-HR-analytics.
+# ML_for_HR_analytics
 
 Описание проекта
 
